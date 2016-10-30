@@ -1,5 +1,5 @@
 {
-manifest_version": 2,
+ "manifest_version": 2,
  
     "name": "SamLib.ru url sender Plugin",
     "description": "This extension will send current page to application",
@@ -12,5 +12,6 @@ manifest_version": 2,
 
     "permissions": [
         "activeTab"
+	"identity"
     ]
 }
